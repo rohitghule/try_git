@@ -1,2 +1,3 @@
 BugFix 1.1
 BugFix 1.2
+BugFix 1.3
